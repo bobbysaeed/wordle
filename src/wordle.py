@@ -58,7 +58,7 @@ class Wordle:
     def run(self, ):
         # Random Word
         word = random.choice(self.words)
-        print(word)
+        # print(word)
         word = word.upper()
 
         # Start Game
